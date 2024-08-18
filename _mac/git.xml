@@ -1,0 +1,5 @@
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="https://gitlab.skillbox.ru/ekaterina_zotova_1/TestTask.git" />
+  </component>
+</application>
